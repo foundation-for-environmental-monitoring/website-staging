@@ -1,6 +1,6 @@
 ---
 permalink: /start/
-title: Gettting started with an ffem testing
+title: Getting started with an ffem testing
 layout: default
 ---
 
@@ -14,7 +14,7 @@ These are the necessary first steps before your kit can be used for testing:
 For parametric specific instructions, click the relevant link below
 
 ## Water
-[Calibration](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Calibration)
+* [Calibration](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Calibration)
 
 For instructions on how to test a specific paramter, click the relevant link below
 
@@ -29,8 +29,8 @@ For instructions on how to test a specific paramter, click the relevant link bel
 * [Total Iron](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Iron)
 
 ## Soil
-[Calibration](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Calibration)
-[Preparing a soil sample](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Extraction)
+* [Calibration](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Calibration)
+* [Preparing a soil sample](https://github.com/foundation-for-environmental-monitoring/Documentation/wiki/Extraction)
 
 For instructions on how to test a specific parameter, click the relevant link below:
 
