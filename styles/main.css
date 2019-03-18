@@ -1,0 +1,28 @@
+nav.navbar-light {
+  background-color: #fff;
+}
+
+h1.pageTitle {
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  padding-bottom: 20pt;
+  border-bottom: 1px solid #aaa;
+}
+
+img {
+  max-width: 100%;
+}
+
+img.teamImage {
+  width: 300px;
+  margin: 10px;
+}
+
+footer {
+  font-size: 0.8em;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  padding-top: 10pt;
+  padding-bottom: 10pt;
+  border-top: 1px solid #aaa;
+}
